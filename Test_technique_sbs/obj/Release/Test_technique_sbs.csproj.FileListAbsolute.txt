@@ -1,0 +1,12 @@
+E:\Test_technique_sbs\Test_technique_sbs\bin\Release\Test_technique_sbs.exe.config
+E:\Test_technique_sbs\Test_technique_sbs\bin\Release\Test_technique_sbs.exe
+E:\Test_technique_sbs\Test_technique_sbs\bin\Release\Test_technique_sbs.pdb
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\MainWindow.baml
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\MainWindow.g.cs
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\App.g.cs
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\Test_technique_sbs_MarkupCompile.cache
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\Test_technique_sbs.g.resources
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\Test_technique_sbs.Properties.Resources.resources
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\Test_technique_sbs.csproj.GenerateResource.Cache
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\Test_technique_sbs.exe
+E:\Test_technique_sbs\Test_technique_sbs\obj\Release\Test_technique_sbs.pdb
